@@ -10,7 +10,7 @@ In this Repository we present a variety of Image Processing Techniques implement
 |Youssef Mohamed |02 |50|
 |Yousof Mahmoud |02 |51|  
 
-#Task 1
+# Task 1
 ## 1.1 Add additive noise to the image
 ### 1.1.1 Uniform Noise  &#x2611;
 ![Uniform Noise](/images/Figure_1.png)
